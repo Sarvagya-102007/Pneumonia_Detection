@@ -77,7 +77,7 @@ python pneumonia.py
 
 ## 🧑‍💻 Author
 
-by Chitransh Raizada
+by Sarvagya Gupta
 
 ---
 *Last updated: July 20, 2025*
